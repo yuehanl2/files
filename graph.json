@@ -1,9 +1,10 @@
 {
   "nodes":[
 		{"name":"apple","group":1},
-		{"name":"node2","group":2},
-		{"name":"node3","group":2},
-		{"name":"node4","group":3}
+		{"name":"peach","group":2},
+		{"name":"banana","group":2},
+		{"name":"orange","group":3}
+	        {"name":"tomato","group":3}
 	],
 	"links":[
 		{"source":2,"target":1,"weight":1},
