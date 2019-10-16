@@ -1,13 +1,12 @@
- {
+{
   "nodes":[
 		{"name":"apple","group":1},
-		{"name":"banana","group":2},
-		{"name":"peach","group":2},
-		{"name":"cherries","group":3}
-	        {"name":"orange","group":3}
+		{"name":"node2","group":2},
+		{"name":"node3","group":2},
+		{"name":"node4","group":3}
 	],
 	"links":[
 		{"source":2,"target":1,"weight":1},
-		{"source":0,"target":2,"weight":1}
+		{"source":0,"target":2,"weight":3}
 	]
 }
